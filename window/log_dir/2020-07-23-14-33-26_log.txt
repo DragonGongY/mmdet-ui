@@ -1,0 +1,6 @@
+[INFO]   2020-07-23 14:33:34,116    2020-07-23 06:33:34.116: train model start
+[INFO]   2020-07-23 14:33:34,116    2020-07-23 06:33:34.116: train model start
+[INFO]   2020-07-23 14:33:37,837    Start running, host: pengbo@pb, work_dir: /home/pengbo/mmdetection/window/work_dirs/faster_rcnn_r50_fpn_1x_voc0712
+[INFO]   2020-07-23 14:33:37,837    Start running, host: pengbo@pb, work_dir: /home/pengbo/mmdetection/window/work_dirs/faster_rcnn_r50_fpn_1x_voc0712
+[INFO]   2020-07-23 14:33:37,838    workflow: [('train', 1)], max: 4 epochs
+[INFO]   2020-07-23 14:33:37,838    workflow: [('train', 1)], max: 4 epochs

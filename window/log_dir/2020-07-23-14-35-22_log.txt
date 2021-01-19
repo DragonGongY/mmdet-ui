@@ -1,0 +1,184 @@
+[INFO]   2020-07-23 14:35:28,696    2020-07-23 06:35:28.696: train model start
+[INFO]   2020-07-23 14:35:28,696    2020-07-23 06:35:28.696: train model start
+[INFO]   2020-07-23 14:35:30,768    Start running, host: pengbo@pb, work_dir: /home/pengbo/mmdetection/window/work_dirs/faster_rcnn_r50_fpn_1x_voc0712
+[INFO]   2020-07-23 14:35:30,768    Start running, host: pengbo@pb, work_dir: /home/pengbo/mmdetection/window/work_dirs/faster_rcnn_r50_fpn_1x_voc0712
+[INFO]   2020-07-23 14:35:30,768    workflow: [('train', 1)], max: 4 epochs
+[INFO]   2020-07-23 14:35:30,768    workflow: [('train', 1)], max: 4 epochs
+[INFO]   2020-07-23 14:35:47,297    Epoch [1][50/186]	lr: 0.01000, eta: 0:03:48, time: 0.329, data_time: 0.046, memory: 2235, loss_rpn_cls: 0.0732, loss_rpn_bbox: 0.0000, loss_cls: 0.1190, acc: 98.2695, loss_bbox: 0.0000, loss: 0.1922
+[INFO]   2020-07-23 14:35:47,297    Epoch [1][50/186]	lr: 0.01000, eta: 0:03:48, time: 0.329, data_time: 0.046, memory: 2235, loss_rpn_cls: 0.0732, loss_rpn_bbox: 0.0000, loss_cls: 0.1190, acc: 98.2695, loss_bbox: 0.0000, loss: 0.1922
+[INFO]   2020-07-23 14:36:00,908    Epoch [1][100/186]	lr: 0.01000, eta: 0:03:13, time: 0.272, data_time: 0.003, memory: 2235, loss_rpn_cls: 0.0000, loss_rpn_bbox: 0.0000, loss_cls: 0.0038, acc: 100.0000, loss_bbox: 0.0000, loss: 0.0038
+[INFO]   2020-07-23 14:36:00,908    Epoch [1][100/186]	lr: 0.01000, eta: 0:03:13, time: 0.272, data_time: 0.003, memory: 2235, loss_rpn_cls: 0.0000, loss_rpn_bbox: 0.0000, loss_cls: 0.0038, acc: 100.0000, loss_bbox: 0.0000, loss: 0.0038
+[INFO]   2020-07-23 14:36:14,108    Epoch [1][150/186]	lr: 0.01000, eta: 0:02:51, time: 0.264, data_time: 0.003, memory: 2235, loss_rpn_cls: 0.0000, loss_rpn_bbox: 0.0000, loss_cls: 0.0021, acc: 100.0000, loss_bbox: 0.0000, loss: 0.0021
+[INFO]   2020-07-23 14:36:14,108    Epoch [1][150/186]	lr: 0.01000, eta: 0:02:51, time: 0.264, data_time: 0.003, memory: 2235, loss_rpn_cls: 0.0000, loss_rpn_bbox: 0.0000, loss_cls: 0.0021, acc: 100.0000, loss_bbox: 0.0000, loss: 0.0021
+[INFO]   2020-07-23 14:36:28,918    
++-------+-----+------+--------+-------+
+| class | gts | dets | recall | ap    |
++-------+-----+------+--------+-------+
+| qx    | 0   | 0    | 0.000  | 0.000 |
++-------+-----+------+--------+-------+
+| mAP   |     |      |        | 0.000 |
++-------+-----+------+--------+-------+
+[INFO]   2020-07-23 14:36:28,918    
++-------+-----+------+--------+-------+
+| class | gts | dets | recall | ap    |
++-------+-----+------+--------+-------+
+| qx    | 0   | 0    | 0.000  | 0.000 |
++-------+-----+------+--------+-------+
+| mAP   |     |      |        | 0.000 |
++-------+-----+------+--------+-------+
+[INFO]   2020-07-23 14:36:28,919    Epoch [1][186/186]	lr: 0.01000, mAP: 0.0000
+[INFO]   2020-07-23 14:36:28,919    Epoch [1][186/186]	lr: 0.01000, mAP: 0.0000
+[INFO]   2020-07-23 14:36:44,825    Epoch [2][50/186]	lr: 0.01000, eta: 0:02:07, time: 0.316, data_time: 0.045, memory: 2235, loss_rpn_cls: 0.0000, loss_rpn_bbox: 0.0000, loss_cls: 0.0013, acc: 100.0000, loss_bbox: 0.0000, loss: 0.0013
+[INFO]   2020-07-23 14:36:44,825    Epoch [2][50/186]	lr: 0.01000, eta: 0:02:07, time: 0.316, data_time: 0.045, memory: 2235, loss_rpn_cls: 0.0000, loss_rpn_bbox: 0.0000, loss_cls: 0.0013, acc: 100.0000, loss_bbox: 0.0000, loss: 0.0013
+[INFO]   2020-07-23 14:36:59,083    Epoch [2][100/186]	lr: 0.01000, eta: 0:01:57, time: 0.285, data_time: 0.003, memory: 2235, loss_rpn_cls: 0.0000, loss_rpn_bbox: 0.0000, loss_cls: 0.0010, acc: 100.0000, loss_bbox: 0.0000, loss: 0.0010
+[INFO]   2020-07-23 14:36:59,083    Epoch [2][100/186]	lr: 0.01000, eta: 0:01:57, time: 0.285, data_time: 0.003, memory: 2235, loss_rpn_cls: 0.0000, loss_rpn_bbox: 0.0000, loss_cls: 0.0010, acc: 100.0000, loss_bbox: 0.0000, loss: 0.0010
+[INFO]   2020-07-23 14:37:13,338    Epoch [2][150/186]	lr: 0.01000, eta: 0:01:46, time: 0.285, data_time: 0.003, memory: 2235, loss_rpn_cls: 0.0000, loss_rpn_bbox: 0.0000, loss_cls: 0.0009, acc: 100.0000, loss_bbox: 0.0000, loss: 0.0009
+[INFO]   2020-07-23 14:37:13,338    Epoch [2][150/186]	lr: 0.01000, eta: 0:01:46, time: 0.285, data_time: 0.003, memory: 2235, loss_rpn_cls: 0.0000, loss_rpn_bbox: 0.0000, loss_cls: 0.0009, acc: 100.0000, loss_bbox: 0.0000, loss: 0.0009
+[INFO]   2020-07-23 14:37:28,368    
++-------+-----+------+--------+-------+
+| class | gts | dets | recall | ap    |
++-------+-----+------+--------+-------+
+| qx    | 0   | 0    | 0.000  | 0.000 |
++-------+-----+------+--------+-------+
+| mAP   |     |      |        | 0.000 |
++-------+-----+------+--------+-------+
+[INFO]   2020-07-23 14:37:28,368    
++-------+-----+------+--------+-------+
+| class | gts | dets | recall | ap    |
++-------+-----+------+--------+-------+
+| qx    | 0   | 0    | 0.000  | 0.000 |
++-------+-----+------+--------+-------+
+| mAP   |     |      |        | 0.000 |
++-------+-----+------+--------+-------+
+[INFO]   2020-07-23 14:37:28,369    Epoch [2][186/186]	lr: 0.01000, mAP: 0.0000
+[INFO]   2020-07-23 14:37:28,369    Epoch [2][186/186]	lr: 0.01000, mAP: 0.0000
+[INFO]   2020-07-23 14:37:44,815    Epoch [3][50/186]	lr: 0.01000, eta: 0:01:19, time: 0.327, data_time: 0.045, memory: 2235, loss_rpn_cls: 0.0000, loss_rpn_bbox: 0.0000, loss_cls: 0.0007, acc: 100.0000, loss_bbox: 0.0000, loss: 0.0007
+[INFO]   2020-07-23 14:37:44,815    Epoch [3][50/186]	lr: 0.01000, eta: 0:01:19, time: 0.327, data_time: 0.045, memory: 2235, loss_rpn_cls: 0.0000, loss_rpn_bbox: 0.0000, loss_cls: 0.0007, acc: 100.0000, loss_bbox: 0.0000, loss: 0.0007
+[INFO]   2020-07-23 14:37:59,292    Epoch [3][100/186]	lr: 0.01000, eta: 0:01:08, time: 0.289, data_time: 0.003, memory: 2235, loss_rpn_cls: 0.0000, loss_rpn_bbox: 0.0000, loss_cls: 0.0006, acc: 100.0000, loss_bbox: 0.0000, loss: 0.0006
+[INFO]   2020-07-23 14:37:59,292    Epoch [3][100/186]	lr: 0.01000, eta: 0:01:08, time: 0.289, data_time: 0.003, memory: 2235, loss_rpn_cls: 0.0000, loss_rpn_bbox: 0.0000, loss_cls: 0.0006, acc: 100.0000, loss_bbox: 0.0000, loss: 0.0006
+[INFO]   2020-07-23 14:38:13,640    Epoch [3][150/186]	lr: 0.01000, eta: 0:00:56, time: 0.287, data_time: 0.004, memory: 2235, loss_rpn_cls: 0.0000, loss_rpn_bbox: 0.0000, loss_cls: 0.0005, acc: 100.0000, loss_bbox: 0.0000, loss: 0.0005
+[INFO]   2020-07-23 14:38:13,640    Epoch [3][150/186]	lr: 0.01000, eta: 0:00:56, time: 0.287, data_time: 0.004, memory: 2235, loss_rpn_cls: 0.0000, loss_rpn_bbox: 0.0000, loss_cls: 0.0005, acc: 100.0000, loss_bbox: 0.0000, loss: 0.0005
+[INFO]   2020-07-23 14:38:28,617    
++-------+-----+------+--------+-------+
+| class | gts | dets | recall | ap    |
++-------+-----+------+--------+-------+
+| qx    | 0   | 0    | 0.000  | 0.000 |
++-------+-----+------+--------+-------+
+| mAP   |     |      |        | 0.000 |
++-------+-----+------+--------+-------+
+[INFO]   2020-07-23 14:38:28,617    
++-------+-----+------+--------+-------+
+| class | gts | dets | recall | ap    |
++-------+-----+------+--------+-------+
+| qx    | 0   | 0    | 0.000  | 0.000 |
++-------+-----+------+--------+-------+
+| mAP   |     |      |        | 0.000 |
++-------+-----+------+--------+-------+
+[INFO]   2020-07-23 14:38:28,618    Epoch [3][186/186]	lr: 0.01000, mAP: 0.0000
+[INFO]   2020-07-23 14:38:28,618    Epoch [3][186/186]	lr: 0.01000, mAP: 0.0000
+[INFO]   2020-07-23 14:38:39,236    2020-07-23 06:38:39.236: train thread suspend
+[INFO]   2020-07-23 14:38:39,236    2020-07-23 06:38:39.236: train thread suspend
+[INFO]   2020-07-23 14:53:50,890    2020-07-23 06:53:50.890: train model start
+[INFO]   2020-07-23 14:53:50,890    2020-07-23 06:53:50.890: train model start
+[INFO]   2020-07-23 14:53:52,070    Start running, host: pengbo@pb, work_dir: /home/pengbo/mmdetection/window/work_dirs/cascade_rcnn_r50_fpn_1x_coco
+[INFO]   2020-07-23 14:53:52,070    Start running, host: pengbo@pb, work_dir: /home/pengbo/mmdetection/window/work_dirs/cascade_rcnn_r50_fpn_1x_coco
+[INFO]   2020-07-23 14:53:52,071    workflow: [('train', 1)], max: 12 epochs
+[INFO]   2020-07-23 14:53:52,071    workflow: [('train', 1)], max: 12 epochs
+[INFO]   2020-07-23 14:54:24,361    Epoch [1][50/50]	lr: 0.00198, eta: 0:05:53, time: 0.644, data_time: 0.048, memory: 3797, loss_rpn_cls: 0.5239, loss_rpn_bbox: 0.1655, s0.loss_cls: 0.4331, s0.acc: 89.3320, s0.loss_bbox: 0.0282, s1.loss_cls: 0.1687, s1.acc: 96.2910, s1.loss_bbox: 0.0097, s2.loss_cls: 0.0960, s2.acc: 90.0488, s2.loss_bbox: 0.0016, loss: 1.4266
+[INFO]   2020-07-23 14:54:24,361    Epoch [1][50/50]	lr: 0.00198, eta: 0:05:53, time: 0.644, data_time: 0.048, memory: 3797, loss_rpn_cls: 0.5239, loss_rpn_bbox: 0.1655, s0.loss_cls: 0.4331, s0.acc: 89.3320, s0.loss_bbox: 0.0282, s1.loss_cls: 0.1687, s1.acc: 96.2910, s1.loss_bbox: 0.0097, s2.loss_cls: 0.0960, s2.acc: 90.0488, s2.loss_bbox: 0.0016, loss: 1.4266
+[INFO]   2020-07-23 14:54:36,925    Evaluating bbox...
+[INFO]   2020-07-23 14:54:36,925    Evaluating bbox...
+[ERROR]   2020-07-23 14:54:36,926    The testing results of the whole dataset is empty.
+[ERROR]   2020-07-23 14:54:36,926    The testing results of the whole dataset is empty.
+[INFO]   2020-07-23 14:54:36,926    Epoch [1][50/50]	lr: 0.00198, 
+[INFO]   2020-07-23 14:54:36,926    Epoch [1][50/50]	lr: 0.00198, 
+[INFO]   2020-07-23 14:55:10,155    Epoch [2][50/50]	lr: 0.00398, eta: 0:05:26, time: 0.662, data_time: 0.048, memory: 3797, loss_rpn_cls: 0.3311, loss_rpn_bbox: 0.1217, s0.loss_cls: 0.1594, s0.acc: 96.8906, s0.loss_bbox: 0.0546, s1.loss_cls: 0.0572, s1.acc: 98.0801, s1.loss_bbox: 0.0182, s2.loss_cls: 0.0234, s2.acc: 98.5977, s2.loss_bbox: 0.0033, loss: 0.7688
+[INFO]   2020-07-23 14:55:10,155    Epoch [2][50/50]	lr: 0.00398, eta: 0:05:26, time: 0.662, data_time: 0.048, memory: 3797, loss_rpn_cls: 0.3311, loss_rpn_bbox: 0.1217, s0.loss_cls: 0.1594, s0.acc: 96.8906, s0.loss_bbox: 0.0546, s1.loss_cls: 0.0572, s1.acc: 98.0801, s1.loss_bbox: 0.0182, s2.loss_cls: 0.0234, s2.acc: 98.5977, s2.loss_bbox: 0.0033, loss: 0.7688
+[INFO]   2020-07-23 14:55:23,476    Evaluating bbox...
+[INFO]   2020-07-23 14:55:23,476    Evaluating bbox...
+[INFO]   2020-07-23 14:55:24,022    Epoch [2][50/50]	lr: 0.00398, bbox_mAP: 0.0040, bbox_mAP_50: 0.0150, bbox_mAP_75: 0.0010, bbox_mAP_s: -1.0000, bbox_mAP_m: 0.0010, bbox_mAP_l: 0.0040, bbox_mAP_copypaste: 0.004 0.015 0.001 -1.000 0.001 0.004
+[INFO]   2020-07-23 14:55:24,022    Epoch [2][50/50]	lr: 0.00398, bbox_mAP: 0.0040, bbox_mAP_50: 0.0150, bbox_mAP_75: 0.0010, bbox_mAP_s: -1.0000, bbox_mAP_m: 0.0010, bbox_mAP_l: 0.0040, bbox_mAP_copypaste: 0.004 0.015 0.001 -1.000 0.001 0.004
+[INFO]   2020-07-23 14:55:57,452    Epoch [3][50/50]	lr: 0.00597, eta: 0:04:55, time: 0.666, data_time: 0.048, memory: 3797, loss_rpn_cls: 0.2134, loss_rpn_bbox: 0.1387, s0.loss_cls: 0.1833, s0.acc: 95.7891, s0.loss_bbox: 0.0847, s1.loss_cls: 0.0601, s1.acc: 97.6914, s1.loss_bbox: 0.0276, s2.loss_cls: 0.0230, s2.acc: 98.4707, s2.loss_bbox: 0.0046, loss: 0.7355
+[INFO]   2020-07-23 14:55:57,452    Epoch [3][50/50]	lr: 0.00597, eta: 0:04:55, time: 0.666, data_time: 0.048, memory: 3797, loss_rpn_cls: 0.2134, loss_rpn_bbox: 0.1387, s0.loss_cls: 0.1833, s0.acc: 95.7891, s0.loss_bbox: 0.0847, s1.loss_cls: 0.0601, s1.acc: 97.6914, s1.loss_bbox: 0.0276, s2.loss_cls: 0.0230, s2.acc: 98.4707, s2.loss_bbox: 0.0046, loss: 0.7355
+[INFO]   2020-07-23 14:56:10,873    Evaluating bbox...
+[INFO]   2020-07-23 14:56:10,873    Evaluating bbox...
+[INFO]   2020-07-23 14:56:11,284    Epoch [3][50/50]	lr: 0.00597, bbox_mAP: 0.0150, bbox_mAP_50: 0.0600, bbox_mAP_75: 0.0010, bbox_mAP_s: -1.0000, bbox_mAP_m: 0.0020, bbox_mAP_l: 0.0160, bbox_mAP_copypaste: 0.015 0.060 0.001 -1.000 0.002 0.016
+[INFO]   2020-07-23 14:56:11,284    Epoch [3][50/50]	lr: 0.00597, bbox_mAP: 0.0150, bbox_mAP_50: 0.0600, bbox_mAP_75: 0.0010, bbox_mAP_s: -1.0000, bbox_mAP_m: 0.0020, bbox_mAP_l: 0.0160, bbox_mAP_copypaste: 0.015 0.060 0.001 -1.000 0.002 0.016
+[INFO]   2020-07-23 14:56:45,462    Epoch [4][50/50]	lr: 0.00797, eta: 0:04:25, time: 0.681, data_time: 0.048, memory: 3797, loss_rpn_cls: 0.1676, loss_rpn_bbox: 0.1440, s0.loss_cls: 0.1925, s0.acc: 94.8828, s0.loss_bbox: 0.1051, s1.loss_cls: 0.0645, s1.acc: 97.1113, s1.loss_bbox: 0.0391, s2.loss_cls: 0.0245, s2.acc: 98.2617, s2.loss_bbox: 0.0070, loss: 0.7444
+[INFO]   2020-07-23 14:56:45,462    Epoch [4][50/50]	lr: 0.00797, eta: 0:04:25, time: 0.681, data_time: 0.048, memory: 3797, loss_rpn_cls: 0.1676, loss_rpn_bbox: 0.1440, s0.loss_cls: 0.1925, s0.acc: 94.8828, s0.loss_bbox: 0.1051, s1.loss_cls: 0.0645, s1.acc: 97.1113, s1.loss_bbox: 0.0391, s2.loss_cls: 0.0245, s2.acc: 98.2617, s2.loss_bbox: 0.0070, loss: 0.7444
+[INFO]   2020-07-23 14:56:59,131    Evaluating bbox...
+[INFO]   2020-07-23 14:56:59,131    Evaluating bbox...
+[INFO]   2020-07-23 14:56:59,775    Epoch [4][50/50]	lr: 0.00797, bbox_mAP: 0.0160, bbox_mAP_50: 0.0630, bbox_mAP_75: 0.0020, bbox_mAP_s: -1.0000, bbox_mAP_m: 0.0540, bbox_mAP_l: 0.0190, bbox_mAP_copypaste: 0.016 0.063 0.002 -1.000 0.054 0.019
+[INFO]   2020-07-23 14:56:59,775    Epoch [4][50/50]	lr: 0.00797, bbox_mAP: 0.0160, bbox_mAP_50: 0.0630, bbox_mAP_75: 0.0020, bbox_mAP_s: -1.0000, bbox_mAP_m: 0.0540, bbox_mAP_l: 0.0190, bbox_mAP_copypaste: 0.016 0.063 0.002 -1.000 0.054 0.019
+[INFO]   2020-07-23 14:57:34,185    Epoch [5][50/50]	lr: 0.00997, eta: 0:03:53, time: 0.686, data_time: 0.047, memory: 3797, loss_rpn_cls: 0.1213, loss_rpn_bbox: 0.1286, s0.loss_cls: 0.1861, s0.acc: 94.3789, s0.loss_bbox: 0.1167, s1.loss_cls: 0.0706, s1.acc: 96.3379, s1.loss_bbox: 0.0576, s2.loss_cls: 0.0254, s2.acc: 98.0195, s2.loss_bbox: 0.0099, loss: 0.7162
+[INFO]   2020-07-23 14:57:34,185    Epoch [5][50/50]	lr: 0.00997, eta: 0:03:53, time: 0.686, data_time: 0.047, memory: 3797, loss_rpn_cls: 0.1213, loss_rpn_bbox: 0.1286, s0.loss_cls: 0.1861, s0.acc: 94.3789, s0.loss_bbox: 0.1167, s1.loss_cls: 0.0706, s1.acc: 96.3379, s1.loss_bbox: 0.0576, s2.loss_cls: 0.0254, s2.acc: 98.0195, s2.loss_bbox: 0.0099, loss: 0.7162
+[INFO]   2020-07-23 14:57:47,740    Evaluating bbox...
+[INFO]   2020-07-23 14:57:47,740    Evaluating bbox...
+[INFO]   2020-07-23 14:57:48,502    Epoch [5][50/50]	lr: 0.00997, bbox_mAP: 0.0120, bbox_mAP_50: 0.0540, bbox_mAP_75: 0.0020, bbox_mAP_s: -1.0000, bbox_mAP_m: 0.0410, bbox_mAP_l: 0.0160, bbox_mAP_copypaste: 0.012 0.054 0.002 -1.000 0.041 0.016
+[INFO]   2020-07-23 14:57:48,502    Epoch [5][50/50]	lr: 0.00997, bbox_mAP: 0.0120, bbox_mAP_50: 0.0540, bbox_mAP_75: 0.0020, bbox_mAP_s: -1.0000, bbox_mAP_m: 0.0410, bbox_mAP_l: 0.0160, bbox_mAP_copypaste: 0.012 0.054 0.002 -1.000 0.041 0.016
+[INFO]   2020-07-23 14:58:23,707    Epoch [6][50/50]	lr: 0.01197, eta: 0:03:22, time: 0.702, data_time: 0.047, memory: 3797, loss_rpn_cls: 0.2122, loss_rpn_bbox: 0.1480, s0.loss_cls: 0.1997, s0.acc: 95.0469, s0.loss_bbox: 0.0951, s1.loss_cls: 0.0715, s1.acc: 96.9551, s1.loss_bbox: 0.0412, s2.loss_cls: 0.0267, s2.acc: 98.1543, s2.loss_bbox: 0.0083, loss: 0.8027
+[INFO]   2020-07-23 14:58:23,707    Epoch [6][50/50]	lr: 0.01197, eta: 0:03:22, time: 0.702, data_time: 0.047, memory: 3797, loss_rpn_cls: 0.2122, loss_rpn_bbox: 0.1480, s0.loss_cls: 0.1997, s0.acc: 95.0469, s0.loss_bbox: 0.0951, s1.loss_cls: 0.0715, s1.acc: 96.9551, s1.loss_bbox: 0.0412, s2.loss_cls: 0.0267, s2.acc: 98.1543, s2.loss_bbox: 0.0083, loss: 0.8027
+[INFO]   2020-07-23 14:58:38,060    Evaluating bbox...
+[INFO]   2020-07-23 14:58:38,060    Evaluating bbox...
+[INFO]   2020-07-23 14:58:38,690    Epoch [6][50/50]	lr: 0.01197, bbox_mAP: 0.0020, bbox_mAP_50: 0.0090, bbox_mAP_75: 0.0000, bbox_mAP_s: -1.0000, bbox_mAP_m: 0.0000, bbox_mAP_l: 0.0030, bbox_mAP_copypaste: 0.002 0.009 0.000 -1.000 0.000 0.003
+[INFO]   2020-07-23 14:58:38,690    Epoch [6][50/50]	lr: 0.01197, bbox_mAP: 0.0020, bbox_mAP_50: 0.0090, bbox_mAP_75: 0.0000, bbox_mAP_s: -1.0000, bbox_mAP_m: 0.0000, bbox_mAP_l: 0.0030, bbox_mAP_copypaste: 0.002 0.009 0.000 -1.000 0.000 0.003
+[INFO]   2020-07-23 14:59:13,976    Epoch [7][50/50]	lr: 0.01397, eta: 0:02:49, time: 0.703, data_time: 0.048, memory: 3797, loss_rpn_cls: 0.2559, loss_rpn_bbox: 0.1704, s0.loss_cls: 0.1908, s0.acc: 96.1699, s0.loss_bbox: 0.0685, s1.loss_cls: 0.0644, s1.acc: 97.5742, s1.loss_bbox: 0.0276, s2.loss_cls: 0.0252, s2.acc: 98.3789, s2.loss_bbox: 0.0055, loss: 0.8082
+[INFO]   2020-07-23 14:59:13,976    Epoch [7][50/50]	lr: 0.01397, eta: 0:02:49, time: 0.703, data_time: 0.048, memory: 3797, loss_rpn_cls: 0.2559, loss_rpn_bbox: 0.1704, s0.loss_cls: 0.1908, s0.acc: 96.1699, s0.loss_bbox: 0.0685, s1.loss_cls: 0.0644, s1.acc: 97.5742, s1.loss_bbox: 0.0276, s2.loss_cls: 0.0252, s2.acc: 98.3789, s2.loss_bbox: 0.0055, loss: 0.8082
+[INFO]   2020-07-23 14:59:28,365    Evaluating bbox...
+[INFO]   2020-07-23 14:59:28,365    Evaluating bbox...
+[INFO]   2020-07-23 14:59:29,387    Epoch [7][50/50]	lr: 0.01397, bbox_mAP: 0.0090, bbox_mAP_50: 0.0370, bbox_mAP_75: 0.0010, bbox_mAP_s: -1.0000, bbox_mAP_m: 0.0160, bbox_mAP_l: 0.0090, bbox_mAP_copypaste: 0.009 0.037 0.001 -1.000 0.016 0.009
+[INFO]   2020-07-23 14:59:29,387    Epoch [7][50/50]	lr: 0.01397, bbox_mAP: 0.0090, bbox_mAP_50: 0.0370, bbox_mAP_75: 0.0010, bbox_mAP_s: -1.0000, bbox_mAP_m: 0.0160, bbox_mAP_l: 0.0090, bbox_mAP_copypaste: 0.009 0.037 0.001 -1.000 0.016 0.009
+[INFO]   2020-07-23 15:00:04,210    Epoch [8][50/50]	lr: 0.01596, eta: 0:02:15, time: 0.694, data_time: 0.047, memory: 3797, loss_rpn_cls: 0.1580, loss_rpn_bbox: 0.1457, s0.loss_cls: 0.1972, s0.acc: 95.1328, s0.loss_bbox: 0.0862, s1.loss_cls: 0.0725, s1.acc: 96.6816, s1.loss_bbox: 0.0461, s2.loss_cls: 0.0266, s2.acc: 98.0293, s2.loss_bbox: 0.0091, loss: 0.7415
+[INFO]   2020-07-23 15:00:04,210    Epoch [8][50/50]	lr: 0.01596, eta: 0:02:15, time: 0.694, data_time: 0.047, memory: 3797, loss_rpn_cls: 0.1580, loss_rpn_bbox: 0.1457, s0.loss_cls: 0.1972, s0.acc: 95.1328, s0.loss_bbox: 0.0862, s1.loss_cls: 0.0725, s1.acc: 96.6816, s1.loss_bbox: 0.0461, s2.loss_cls: 0.0266, s2.acc: 98.0293, s2.loss_bbox: 0.0091, loss: 0.7415
+[INFO]   2020-07-23 15:00:18,012    Evaluating bbox...
+[INFO]   2020-07-23 15:00:18,012    Evaluating bbox...
+[INFO]   2020-07-23 15:00:18,530    Epoch [8][50/50]	lr: 0.01596, bbox_mAP: 0.0300, bbox_mAP_50: 0.0880, bbox_mAP_75: 0.0150, bbox_mAP_s: -1.0000, bbox_mAP_m: 0.0110, bbox_mAP_l: 0.0550, bbox_mAP_copypaste: 0.030 0.088 0.015 -1.000 0.011 0.055
+[INFO]   2020-07-23 15:00:18,530    Epoch [8][50/50]	lr: 0.01596, bbox_mAP: 0.0300, bbox_mAP_50: 0.0880, bbox_mAP_75: 0.0150, bbox_mAP_s: -1.0000, bbox_mAP_m: 0.0110, bbox_mAP_l: 0.0550, bbox_mAP_copypaste: 0.030 0.088 0.015 -1.000 0.011 0.055
+[INFO]   2020-07-23 15:00:54,180    Epoch [9][50/50]	lr: 0.00180, eta: 0:01:42, time: 0.711, data_time: 0.048, memory: 3797, loss_rpn_cls: 0.0860, loss_rpn_bbox: 0.1005, s0.loss_cls: 0.1708, s0.acc: 94.1309, s0.loss_bbox: 0.1209, s1.loss_cls: 0.0768, s1.acc: 94.8223, s1.loss_bbox: 0.0872, s2.loss_cls: 0.0310, s2.acc: 96.6191, s2.loss_bbox: 0.0247, loss: 0.6980
+[INFO]   2020-07-23 15:00:54,180    Epoch [9][50/50]	lr: 0.00180, eta: 0:01:42, time: 0.711, data_time: 0.048, memory: 3797, loss_rpn_cls: 0.0860, loss_rpn_bbox: 0.1005, s0.loss_cls: 0.1708, s0.acc: 94.1309, s0.loss_bbox: 0.1209, s1.loss_cls: 0.0768, s1.acc: 94.8223, s1.loss_bbox: 0.0872, s2.loss_cls: 0.0310, s2.acc: 96.6191, s2.loss_bbox: 0.0247, loss: 0.6980
+[INFO]   2020-07-23 15:01:07,985    Evaluating bbox...
+[INFO]   2020-07-23 15:01:07,985    Evaluating bbox...
+[INFO]   2020-07-23 15:01:08,595    Epoch [9][50/50]	lr: 0.00180, bbox_mAP: 0.1780, bbox_mAP_50: 0.3770, bbox_mAP_75: 0.1280, bbox_mAP_s: -1.0000, bbox_mAP_m: 0.1080, bbox_mAP_l: 0.1970, bbox_mAP_copypaste: 0.178 0.377 0.128 -1.000 0.108 0.197
+[INFO]   2020-07-23 15:01:08,595    Epoch [9][50/50]	lr: 0.00180, bbox_mAP: 0.1780, bbox_mAP_50: 0.3770, bbox_mAP_75: 0.1280, bbox_mAP_s: -1.0000, bbox_mAP_m: 0.1080, bbox_mAP_l: 0.1970, bbox_mAP_copypaste: 0.178 0.377 0.128 -1.000 0.108 0.197
+[INFO]   2020-07-23 15:01:44,777    Epoch [10][50/50]	lr: 0.00200, eta: 0:01:08, time: 0.721, data_time: 0.048, memory: 3797, loss_rpn_cls: 0.0486, loss_rpn_bbox: 0.0928, s0.loss_cls: 0.1491, s0.acc: 94.8438, s0.loss_bbox: 0.1093, s1.loss_cls: 0.0699, s1.acc: 94.9883, s1.loss_bbox: 0.0956, s2.loss_cls: 0.0348, s2.acc: 95.4609, s2.loss_bbox: 0.0345, loss: 0.6346
+[INFO]   2020-07-23 15:01:44,777    Epoch [10][50/50]	lr: 0.00200, eta: 0:01:08, time: 0.721, data_time: 0.048, memory: 3797, loss_rpn_cls: 0.0486, loss_rpn_bbox: 0.0928, s0.loss_cls: 0.1491, s0.acc: 94.8438, s0.loss_bbox: 0.1093, s1.loss_cls: 0.0699, s1.acc: 94.9883, s1.loss_bbox: 0.0956, s2.loss_cls: 0.0348, s2.acc: 95.4609, s2.loss_bbox: 0.0345, loss: 0.6346
+[INFO]   2020-07-23 15:01:58,662    Evaluating bbox...
+[INFO]   2020-07-23 15:01:58,662    Evaluating bbox...
+[INFO]   2020-07-23 15:01:59,146    Epoch [10][50/50]	lr: 0.00200, bbox_mAP: 0.2530, bbox_mAP_50: 0.4810, bbox_mAP_75: 0.2510, bbox_mAP_s: -1.0000, bbox_mAP_m: 0.1110, bbox_mAP_l: 0.2570, bbox_mAP_copypaste: 0.253 0.481 0.251 -1.000 0.111 0.257
+[INFO]   2020-07-23 15:01:59,146    Epoch [10][50/50]	lr: 0.00200, bbox_mAP: 0.2530, bbox_mAP_50: 0.4810, bbox_mAP_75: 0.2510, bbox_mAP_s: -1.0000, bbox_mAP_m: 0.1110, bbox_mAP_l: 0.2570, bbox_mAP_copypaste: 0.253 0.481 0.251 -1.000 0.111 0.257
+[INFO]   2020-07-23 15:02:34,533    Epoch [11][50/50]	lr: 0.00200, eta: 0:00:34, time: 0.705, data_time: 0.047, memory: 3797, loss_rpn_cls: 0.0381, loss_rpn_bbox: 0.0878, s0.loss_cls: 0.1354, s0.acc: 95.3320, s0.loss_bbox: 0.1114, s1.loss_cls: 0.0652, s1.acc: 95.4629, s1.loss_bbox: 0.1032, s2.loss_cls: 0.0326, s2.acc: 95.3047, s2.loss_bbox: 0.0385, loss: 0.6122
+[INFO]   2020-07-23 15:02:34,533    Epoch [11][50/50]	lr: 0.00200, eta: 0:00:34, time: 0.705, data_time: 0.047, memory: 3797, loss_rpn_cls: 0.0381, loss_rpn_bbox: 0.0878, s0.loss_cls: 0.1354, s0.acc: 95.3320, s0.loss_bbox: 0.1114, s1.loss_cls: 0.0652, s1.acc: 95.4629, s1.loss_bbox: 0.1032, s2.loss_cls: 0.0326, s2.acc: 95.3047, s2.loss_bbox: 0.0385, loss: 0.6122
+[INFO]   2020-07-23 15:02:50,026    Evaluating bbox...
+[INFO]   2020-07-23 15:02:50,026    Evaluating bbox...
+[INFO]   2020-07-23 15:02:50,511    Epoch [11][50/50]	lr: 0.00200, bbox_mAP: 0.3120, bbox_mAP_50: 0.5370, bbox_mAP_75: 0.3460, bbox_mAP_s: -1.0000, bbox_mAP_m: 0.1790, bbox_mAP_l: 0.3820, bbox_mAP_copypaste: 0.312 0.537 0.346 -1.000 0.179 0.382
+[INFO]   2020-07-23 15:02:50,511    Epoch [11][50/50]	lr: 0.00200, bbox_mAP: 0.3120, bbox_mAP_50: 0.5370, bbox_mAP_75: 0.3460, bbox_mAP_s: -1.0000, bbox_mAP_m: 0.1790, bbox_mAP_l: 0.3820, bbox_mAP_copypaste: 0.312 0.537 0.346 -1.000 0.179 0.382
+[INFO]   2020-07-23 15:03:26,105    Epoch [12][50/50]	lr: 0.00020, eta: 0:00:00, time: 0.710, data_time: 0.048, memory: 3797, loss_rpn_cls: 0.0315, loss_rpn_bbox: 0.0749, s0.loss_cls: 0.1280, s0.acc: 95.5684, s0.loss_bbox: 0.1046, s1.loss_cls: 0.0610, s1.acc: 95.9779, s1.loss_bbox: 0.1019, s2.loss_cls: 0.0314, s2.acc: 95.5517, s2.loss_bbox: 0.0431, loss: 0.5765
+[INFO]   2020-07-23 15:03:26,105    Epoch [12][50/50]	lr: 0.00020, eta: 0:00:00, time: 0.710, data_time: 0.048, memory: 3797, loss_rpn_cls: 0.0315, loss_rpn_bbox: 0.0749, s0.loss_cls: 0.1280, s0.acc: 95.5684, s0.loss_bbox: 0.1046, s1.loss_cls: 0.0610, s1.acc: 95.9779, s1.loss_bbox: 0.1019, s2.loss_cls: 0.0314, s2.acc: 95.5517, s2.loss_bbox: 0.0431, loss: 0.5765
+[INFO]   2020-07-23 15:03:39,750    Evaluating bbox...
+[INFO]   2020-07-23 15:03:39,750    Evaluating bbox...
+[INFO]   2020-07-23 15:03:40,193    Epoch [12][50/50]	lr: 0.00020, bbox_mAP: 0.3360, bbox_mAP_50: 0.5520, bbox_mAP_75: 0.3570, bbox_mAP_s: -1.0000, bbox_mAP_m: 0.2200, bbox_mAP_l: 0.4060, bbox_mAP_copypaste: 0.336 0.552 0.357 -1.000 0.220 0.406
+[INFO]   2020-07-23 15:03:40,193    Epoch [12][50/50]	lr: 0.00020, bbox_mAP: 0.3360, bbox_mAP_50: 0.5520, bbox_mAP_75: 0.3570, bbox_mAP_s: -1.0000, bbox_mAP_m: 0.2200, bbox_mAP_l: 0.4060, bbox_mAP_copypaste: 0.336 0.552 0.357 -1.000 0.220 0.406
+[INFO]   2020-07-23 15:03:41,202    2020-07-23 07:03:41.202: train model end
+[INFO]   2020-07-23 15:03:41,202    2020-07-23 07:03:41.202: train model end
+[INFO]   2020-07-24 14:20:38,694    2020-07-24 06:20:38.694: .pth and .py file published
+[INFO]   2020-07-24 14:20:38,694    2020-07-24 06:20:38.694: .pth and .py file published
+[INFO]   2020-07-24 14:21:09,600    2020-07-24 06:21:09.600: read one image complished
+[INFO]   2020-07-24 14:21:09,600    2020-07-24 06:21:09.600: read one image complished
+[INFO]   2020-07-24 14:21:12,432    2020-07-24 06:21:12.431: inference result is shown
+[INFO]   2020-07-24 14:21:12,432    2020-07-24 06:21:12.431: inference result is shown
+[INFO]   2020-07-24 14:21:15,849    2020-07-24 06:21:15.849: read one image complished
+[INFO]   2020-07-24 14:21:15,849    2020-07-24 06:21:15.849: read one image complished
+[INFO]   2020-07-24 14:21:17,014    2020-07-24 06:21:17.013: inference result is shown
+[INFO]   2020-07-24 14:21:17,014    2020-07-24 06:21:17.013: inference result is shown
+[INFO]   2020-07-24 14:21:19,905    2020-07-24 06:21:19.904: read one image complished
+[INFO]   2020-07-24 14:21:19,905    2020-07-24 06:21:19.904: read one image complished
+[INFO]   2020-07-24 14:21:21,207    2020-07-24 06:21:21.207: inference result is shown
+[INFO]   2020-07-24 14:21:21,207    2020-07-24 06:21:21.207: inference result is shown
+[INFO]   2020-07-24 14:21:23,389    2020-07-24 06:21:23.389: read one image complished
+[INFO]   2020-07-24 14:21:23,389    2020-07-24 06:21:23.389: read one image complished
+[INFO]   2020-07-24 14:21:24,509    2020-07-24 06:21:24.508: inference result is shown
+[INFO]   2020-07-24 14:21:24,509    2020-07-24 06:21:24.508: inference result is shown
+[INFO]   2020-07-24 14:21:26,914    2020-07-24 06:21:26.914: read one image complished
+[INFO]   2020-07-24 14:21:26,914    2020-07-24 06:21:26.914: read one image complished
+[INFO]   2020-07-24 14:21:28,124    2020-07-24 06:21:28.123: inference result is shown
+[INFO]   2020-07-24 14:21:28,124    2020-07-24 06:21:28.123: inference result is shown

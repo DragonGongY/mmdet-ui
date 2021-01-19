@@ -1,0 +1,8 @@
+[INFO]   2020-07-15 16:39:59,628    2020-07-15 08:39:59.627: read one image complished
+[INFO]   2020-07-15 16:39:59,628    2020-07-15 08:39:59.627: read one image complished
+[INFO]   2020-07-15 16:40:04,348    2020-07-15 08:40:04.348: inference result is shown
+[INFO]   2020-07-15 16:40:04,348    2020-07-15 08:40:04.348: inference result is shown
+[INFO]   2020-07-15 16:40:24,138    2020-07-15 08:40:24.138: inference result is shown
+[INFO]   2020-07-15 16:40:24,138    2020-07-15 08:40:24.138: inference result is shown
+[INFO]   2020-07-15 16:40:31,043    2020-07-15 08:40:31.043: inference result is shown
+[INFO]   2020-07-15 16:40:31,043    2020-07-15 08:40:31.043: inference result is shown

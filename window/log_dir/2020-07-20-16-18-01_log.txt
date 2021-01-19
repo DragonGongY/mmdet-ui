@@ -1,0 +1,46 @@
+[INFO]   2020-07-20 16:18:01,823    Start running, host: pengbo@pb, work_dir: /home/pengbo/mmdetection/window/work_dirs/faster_rcnn_r50_fpn_giou_1x_coco
+[INFO]   2020-07-20 16:18:01,823    workflow: [('train', 1)], max: 12 epochs
+[INFO]   2020-07-20 16:18:21,417    Evaluating bbox...
+[ERROR]   2020-07-20 16:18:21,417    The testing results of the whole dataset is empty.
+[INFO]   2020-07-20 16:18:21,418    Epoch [1][26/26]	lr: 0.00102, 
+[INFO]   2020-07-20 16:18:41,363    Evaluating bbox...
+[ERROR]   2020-07-20 16:18:41,363    The testing results of the whole dataset is empty.
+[INFO]   2020-07-20 16:18:41,364    Epoch [2][26/26]	lr: 0.00206, 
+[INFO]   2020-07-20 16:19:01,503    Evaluating bbox...
+[INFO]   2020-07-20 16:19:01,912    Epoch [3][26/26]	lr: 0.00310, bbox_mAP: 0.0010, bbox_mAP_50: 0.0030, bbox_mAP_75: 0.0000, bbox_mAP_s: -1.0000, bbox_mAP_m: 0.0000, bbox_mAP_l: 0.0010, bbox_mAP_copypaste: 0.001 0.003 0.000 -1.000 0.000 0.001
+[INFO]   2020-07-20 16:19:21,056    2020-07-20 08:19:21.055: train thread suspend
+[INFO]   2020-07-20 16:19:27,672    2020-07-20 08:19:27.672: .pth and .py file published
+[INFO]   2020-07-20 16:19:42,327    2020-07-20 08:19:42.326: read one image complished
+[INFO]   2020-07-20 16:19:43,641    2020-07-20 08:19:43.641: inference result is shown
+[INFO]   2020-07-20 16:19:53,658    2020-07-20 08:19:53.658: read one image complished
+[INFO]   2020-07-20 16:19:54,848    2020-07-20 08:19:54.848: inference result is shown
+[INFO]   2020-07-20 16:19:57,827    2020-07-20 08:19:57.827: read one image complished
+[INFO]   2020-07-20 16:19:59,022    2020-07-20 08:19:59.021: inference result is shown
+[INFO]   2020-07-20 16:20:09,287    2020-07-20 08:20:09.287: read one image complished
+[INFO]   2020-07-20 16:20:10,395    2020-07-20 08:20:10.395: inference result is shown
+[INFO]   2020-07-20 16:20:14,251    2020-07-20 08:20:14.251: read one image complished
+[INFO]   2020-07-20 16:20:15,275    2020-07-20 08:20:15.275: inference result is shown
+[INFO]   2020-07-20 16:20:17,973    2020-07-20 08:20:17.973: read one image complished
+[INFO]   2020-07-20 16:20:18,941    2020-07-20 08:20:18.941: inference result is shown
+[INFO]   2020-07-20 16:20:21,809    2020-07-20 08:20:21.809: read one image complished
+[INFO]   2020-07-20 16:20:22,948    2020-07-20 08:20:22.948: inference result is shown
+[INFO]   2020-07-20 16:20:28,279    2020-07-20 08:20:28.279: read one image complished
+[INFO]   2020-07-20 16:20:29,806    2020-07-20 08:20:29.806: inference result is shown
+[INFO]   2020-07-20 16:20:34,568    2020-07-20 08:20:34.568: read one image complished
+[INFO]   2020-07-20 16:20:35,600    2020-07-20 08:20:35.600: inference result is shown
+[INFO]   2020-07-20 16:20:40,632    2020-07-20 08:20:40.632: read one image complished
+[INFO]   2020-07-20 16:20:41,688    2020-07-20 08:20:41.688: inference result is shown
+[INFO]   2020-07-20 16:20:48,278    2020-07-20 08:20:48.278: read one image complished
+[INFO]   2020-07-20 16:20:49,451    2020-07-20 08:20:49.451: inference result is shown
+[INFO]   2020-07-20 16:20:57,334    2020-07-20 08:20:57.334: read one image complished
+[INFO]   2020-07-20 16:20:58,430    2020-07-20 08:20:58.430: inference result is shown
+[INFO]   2020-07-20 16:21:01,746    2020-07-20 08:21:01.746: read one image complished
+[INFO]   2020-07-20 16:21:02,970    2020-07-20 08:21:02.970: inference result is shown
+[INFO]   2020-07-20 16:21:07,257    2020-07-20 08:21:07.257: read one image complished
+[INFO]   2020-07-20 16:21:08,409    2020-07-20 08:21:08.409: inference result is shown
+[INFO]   2020-07-20 16:21:10,861    2020-07-20 08:21:10.861: read one image complished
+[INFO]   2020-07-20 16:21:11,986    2020-07-20 08:21:11.986: inference result is shown
+[INFO]   2020-07-20 16:21:14,942    2020-07-20 08:21:14.942: read one image complished
+[INFO]   2020-07-20 16:21:15,997    2020-07-20 08:21:15.997: inference result is shown
+[INFO]   2020-07-20 16:21:18,708    2020-07-20 08:21:18.708: read one image complished
+[INFO]   2020-07-20 16:21:19,995    2020-07-20 08:21:19.995: inference result is shown

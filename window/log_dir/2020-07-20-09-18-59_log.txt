@@ -1,0 +1,22 @@
+[INFO]   2020-07-20 10:18:03,488    2020-07-20 02:18:03.488: data convert coco complished
+[INFO]   2020-07-20 10:18:03,488    2020-07-20 02:18:03.488: data convert coco complished
+[INFO]   2020-07-20 10:44:08,473    2020-07-20 02:44:08.472: train model start
+[INFO]   2020-07-20 10:44:08,473    2020-07-20 02:44:08.472: train model start
+[INFO]   2020-07-20 10:44:11,091    Start running, host: pengbo@pb, work_dir: /home/pengbo/mmdetection/window/work_dirs/cascade_rcnn_r50_fpn_1x_coco
+[INFO]   2020-07-20 10:44:11,091    Start running, host: pengbo@pb, work_dir: /home/pengbo/mmdetection/window/work_dirs/cascade_rcnn_r50_fpn_1x_coco
+[INFO]   2020-07-20 10:44:11,091    workflow: [('train', 1)], max: 12 epochs
+[INFO]   2020-07-20 10:44:11,091    workflow: [('train', 1)], max: 12 epochs
+[INFO]   2020-07-20 10:44:39,285    Evaluating bbox...
+[INFO]   2020-07-20 10:44:39,285    Evaluating bbox...
+[ERROR]   2020-07-20 10:44:39,285    The testing results of the whole dataset is empty.
+[ERROR]   2020-07-20 10:44:39,285    The testing results of the whole dataset is empty.
+[INFO]   2020-07-20 10:44:39,286    Epoch [1][26/26]	lr: 0.00102, 
+[INFO]   2020-07-20 10:44:39,286    Epoch [1][26/26]	lr: 0.00102, 
+[INFO]   2020-07-20 10:45:08,648    Evaluating bbox...
+[INFO]   2020-07-20 10:45:08,648    Evaluating bbox...
+[ERROR]   2020-07-20 10:45:08,648    The testing results of the whole dataset is empty.
+[ERROR]   2020-07-20 10:45:08,648    The testing results of the whole dataset is empty.
+[INFO]   2020-07-20 10:45:08,649    Epoch [2][26/26]	lr: 0.00206, 
+[INFO]   2020-07-20 10:45:08,649    Epoch [2][26/26]	lr: 0.00206, 
+[INFO]   2020-07-20 10:45:34,189    2020-07-20 02:45:34.189: train thread suspend
+[INFO]   2020-07-20 10:45:34,189    2020-07-20 02:45:34.189: train thread suspend

@@ -1,0 +1,62 @@
+[INFO]   2020-07-20 20:18:21,720    2020-07-20 12:18:21.720: data convert coco complished
+[INFO]   2020-07-20 20:18:21,720    2020-07-20 12:18:21.720: data convert coco complished
+[INFO]   2020-07-20 20:19:48,936    2020-07-20 12:19:48.935: train model start
+[INFO]   2020-07-20 20:19:48,936    2020-07-20 12:19:48.935: train model start
+[INFO]   2020-07-20 20:19:52,122    Start running, host: pengbo@pb, work_dir: /home/pengbo/mmdetection/window/work_dirs/cascade_rcnn_r50_fpn_1x_coco
+[INFO]   2020-07-20 20:19:52,122    Start running, host: pengbo@pb, work_dir: /home/pengbo/mmdetection/window/work_dirs/cascade_rcnn_r50_fpn_1x_coco
+[INFO]   2020-07-20 20:19:52,122    workflow: [('train', 1)], max: 12 epochs
+[INFO]   2020-07-20 20:19:52,122    workflow: [('train', 1)], max: 12 epochs
+[INFO]   2020-07-20 20:20:20,181    Evaluating bbox...
+[INFO]   2020-07-20 20:20:20,181    Evaluating bbox...
+[ERROR]   2020-07-20 20:20:20,182    The testing results of the whole dataset is empty.
+[ERROR]   2020-07-20 20:20:20,182    The testing results of the whole dataset is empty.
+[INFO]   2020-07-20 20:20:20,182    Epoch [1][26/26]	lr: 0.00102, 
+[INFO]   2020-07-20 20:20:20,182    Epoch [1][26/26]	lr: 0.00102, 
+[INFO]   2020-07-20 20:20:48,408    Evaluating bbox...
+[INFO]   2020-07-20 20:20:48,408    Evaluating bbox...
+[ERROR]   2020-07-20 20:20:48,408    The testing results of the whole dataset is empty.
+[ERROR]   2020-07-20 20:20:48,408    The testing results of the whole dataset is empty.
+[INFO]   2020-07-20 20:20:48,408    Epoch [2][26/26]	lr: 0.00206, 
+[INFO]   2020-07-20 20:20:48,408    Epoch [2][26/26]	lr: 0.00206, 
+[INFO]   2020-07-20 20:21:16,910    Evaluating bbox...
+[INFO]   2020-07-20 20:21:16,910    Evaluating bbox...
+[INFO]   2020-07-20 20:21:17,051    Epoch [3][26/26]	lr: 0.00310, bbox_mAP: 0.0010, bbox_mAP_50: 0.0030, bbox_mAP_75: 0.0000, bbox_mAP_s: -1.0000, bbox_mAP_m: 0.0000, bbox_mAP_l: 0.0010, bbox_mAP_copypaste: 0.001 0.003 0.000 -1.000 0.000 0.001
+[INFO]   2020-07-20 20:21:17,051    Epoch [3][26/26]	lr: 0.00310, bbox_mAP: 0.0010, bbox_mAP_50: 0.0030, bbox_mAP_75: 0.0000, bbox_mAP_s: -1.0000, bbox_mAP_m: 0.0000, bbox_mAP_l: 0.0010, bbox_mAP_copypaste: 0.001 0.003 0.000 -1.000 0.000 0.001
+[INFO]   2020-07-20 20:21:45,411    Evaluating bbox...
+[INFO]   2020-07-20 20:21:45,411    Evaluating bbox...
+[INFO]   2020-07-20 20:21:45,501    Epoch [4][26/26]	lr: 0.00414, bbox_mAP: 0.0020, bbox_mAP_50: 0.0120, bbox_mAP_75: 0.0000, bbox_mAP_s: -1.0000, bbox_mAP_m: 0.0000, bbox_mAP_l: 0.0020, bbox_mAP_copypaste: 0.002 0.012 0.000 -1.000 0.000 0.002
+[INFO]   2020-07-20 20:21:45,501    Epoch [4][26/26]	lr: 0.00414, bbox_mAP: 0.0020, bbox_mAP_50: 0.0120, bbox_mAP_75: 0.0000, bbox_mAP_s: -1.0000, bbox_mAP_m: 0.0000, bbox_mAP_l: 0.0020, bbox_mAP_copypaste: 0.002 0.012 0.000 -1.000 0.000 0.002
+[INFO]   2020-07-20 20:21:51,728    2020-07-20 12:21:51.728: train thread suspend
+[INFO]   2020-07-20 20:21:51,728    2020-07-20 12:21:51.728: train thread suspend
+[INFO]   2020-07-20 20:22:21,248    2020-07-20 12:22:21.248: .pth and .py file published
+[INFO]   2020-07-20 20:22:21,248    2020-07-20 12:22:21.248: .pth and .py file published
+[INFO]   2020-07-20 20:22:48,539    2020-07-20 12:22:48.539: read one image complished
+[INFO]   2020-07-20 20:22:48,539    2020-07-20 12:22:48.539: read one image complished
+[INFO]   2020-07-20 20:22:50,456    2020-07-20 12:22:50.456: inference result is shown
+[INFO]   2020-07-20 20:22:50,456    2020-07-20 12:22:50.456: inference result is shown
+[INFO]   2020-07-20 20:23:03,411    2020-07-20 12:23:03.411: read one image complished
+[INFO]   2020-07-20 20:23:03,411    2020-07-20 12:23:03.411: read one image complished
+[INFO]   2020-07-20 20:23:04,805    2020-07-20 12:23:04.805: inference result is shown
+[INFO]   2020-07-20 20:23:04,805    2020-07-20 12:23:04.805: inference result is shown
+[INFO]   2020-07-20 20:23:10,615    2020-07-20 12:23:10.615: read one image complished
+[INFO]   2020-07-20 20:23:10,615    2020-07-20 12:23:10.615: read one image complished
+[INFO]   2020-07-20 20:23:12,021    2020-07-20 12:23:12.021: inference result is shown
+[INFO]   2020-07-20 20:23:12,021    2020-07-20 12:23:12.021: inference result is shown
+[INFO]   2020-07-20 20:23:15,640    2020-07-20 12:23:15.640: read one image complished
+[INFO]   2020-07-20 20:23:15,640    2020-07-20 12:23:15.640: read one image complished
+[INFO]   2020-07-20 20:23:16,987    2020-07-20 12:23:16.987: inference result is shown
+[INFO]   2020-07-20 20:23:16,987    2020-07-20 12:23:16.987: inference result is shown
+[INFO]   2020-07-20 20:24:10,500    2020-07-20 12:24:10.500: read one image complished
+[INFO]   2020-07-20 20:24:10,500    2020-07-20 12:24:10.500: read one image complished
+[INFO]   2020-07-20 20:24:12,242    2020-07-20 12:24:12.241: inference result is shown
+[INFO]   2020-07-20 20:24:12,242    2020-07-20 12:24:12.241: inference result is shown
+[INFO]   2020-07-20 20:24:14,993    2020-07-20 12:24:14.993: read one image complished
+[INFO]   2020-07-20 20:24:14,993    2020-07-20 12:24:14.993: read one image complished
+[INFO]   2020-07-20 20:24:19,294    2020-07-20 12:24:19.294: read one image complished
+[INFO]   2020-07-20 20:24:19,294    2020-07-20 12:24:19.294: read one image complished
+[INFO]   2020-07-20 20:24:20,753    2020-07-20 12:24:20.753: inference result is shown
+[INFO]   2020-07-20 20:24:20,753    2020-07-20 12:24:20.753: inference result is shown
+[INFO]   2020-07-20 20:24:24,800    2020-07-20 12:24:24.800: read one image complished
+[INFO]   2020-07-20 20:24:24,800    2020-07-20 12:24:24.800: read one image complished
+[INFO]   2020-07-20 20:24:26,228    2020-07-20 12:24:26.228: inference result is shown
+[INFO]   2020-07-20 20:24:26,228    2020-07-20 12:24:26.228: inference result is shown

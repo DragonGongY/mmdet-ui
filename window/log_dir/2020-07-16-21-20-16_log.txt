@@ -1,0 +1,2 @@
+[INFO]   2020-07-16 21:21:00,814    2020-07-16 13:21:00.814: read one image complished
+[INFO]   2020-07-16 21:21:00,814    2020-07-16 13:21:00.814: read one image complished

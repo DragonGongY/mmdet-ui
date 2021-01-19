@@ -1,0 +1,123 @@
+[INFO]   2020-07-23 14:18:18,758    Start running, host: pengbo@pb, work_dir: /home/pengbo/mmdetection/window/work_dirs/faster_rcnn_r50_fpn_1x_voc0712
+[INFO]   2020-07-23 14:18:18,758    workflow: [('train', 1)], max: 4 epochs
+[INFO]   2020-07-23 14:18:35,121    Epoch [1][50/186]	lr: 0.01000, eta: 0:03:46, time: 0.326, data_time: 0.045, memory: 2235, loss_rpn_cls: 0.0702, loss_rpn_bbox: 0.0000, loss_cls: 0.1123, acc: 98.5527, loss_bbox: 0.0000, loss: 0.1825
+[INFO]   2020-07-23 14:18:48,849    Epoch [1][100/186]	lr: 0.01000, eta: 0:03:13, time: 0.275, data_time: 0.003, memory: 2235, loss_rpn_cls: 0.0000, loss_rpn_bbox: 0.0000, loss_cls: 0.0027, acc: 100.0000, loss_bbox: 0.0000, loss: 0.0027
+[INFO]   2020-07-23 14:19:02,527    Epoch [1][150/186]	lr: 0.01000, eta: 0:02:53, time: 0.274, data_time: 0.003, memory: 2235, loss_rpn_cls: 0.0000, loss_rpn_bbox: 0.0000, loss_cls: 0.0017, acc: 100.0000, loss_bbox: 0.0000, loss: 0.0017
+[INFO]   2020-07-23 14:19:15,608    
++-------+-----+------+--------+-------+
+| class | gts | dets | recall | ap    |
++-------+-----+------+--------+-------+
+| qx    | 0   | 0    | 0.000  | 0.000 |
++-------+-----+------+--------+-------+
+| mAP   |     |      |        | 0.000 |
++-------+-----+------+--------+-------+
+[INFO]   2020-07-23 14:19:15,609    Epoch [1][186/186]	lr: 0.01000, mAP: 0.0000
+[INFO]   2020-07-23 14:19:31,532    Epoch [2][50/186]	lr: 0.01000, eta: 0:02:08, time: 0.317, data_time: 0.045, memory: 2235, loss_rpn_cls: 0.0000, loss_rpn_bbox: 0.0000, loss_cls: 0.0011, acc: 100.0000, loss_bbox: 0.0000, loss: 0.0011
+[INFO]   2020-07-23 14:19:45,443    Epoch [2][100/186]	lr: 0.01000, eta: 0:01:57, time: 0.278, data_time: 0.003, memory: 2235, loss_rpn_cls: 0.0000, loss_rpn_bbox: 0.0000, loss_cls: 0.0009, acc: 100.0000, loss_bbox: 0.0000, loss: 0.0009
+[INFO]   2020-07-23 14:19:59,337    Epoch [2][150/186]	lr: 0.01000, eta: 0:01:46, time: 0.278, data_time: 0.003, memory: 2235, loss_rpn_cls: 0.0000, loss_rpn_bbox: 0.0000, loss_cls: 0.0008, acc: 100.0000, loss_bbox: 0.0000, loss: 0.0008
+[INFO]   2020-07-23 14:20:12,468    
++-------+-----+------+--------+-------+
+| class | gts | dets | recall | ap    |
++-------+-----+------+--------+-------+
+| qx    | 0   | 0    | 0.000  | 0.000 |
++-------+-----+------+--------+-------+
+| mAP   |     |      |        | 0.000 |
++-------+-----+------+--------+-------+
+[INFO]   2020-07-23 14:20:12,469    Epoch [2][186/186]	lr: 0.01000, mAP: 0.0000
+[INFO]   2020-07-23 14:20:28,404    Epoch [3][50/186]	lr: 0.01000, eta: 0:01:18, time: 0.317, data_time: 0.045, memory: 2235, loss_rpn_cls: 0.0000, loss_rpn_bbox: 0.0000, loss_cls: 0.0006, acc: 100.0000, loss_bbox: 0.0000, loss: 0.0006
+[INFO]   2020-07-23 14:20:42,202    Epoch [3][100/186]	lr: 0.01000, eta: 0:01:07, time: 0.276, data_time: 0.003, memory: 2235, loss_rpn_cls: 0.0000, loss_rpn_bbox: 0.0000, loss_cls: 0.0005, acc: 100.0000, loss_bbox: 0.0000, loss: 0.0005
+[INFO]   2020-07-23 14:20:56,221    Epoch [3][150/186]	lr: 0.01000, eta: 0:00:55, time: 0.280, data_time: 0.003, memory: 2235, loss_rpn_cls: 0.0000, loss_rpn_bbox: 0.0000, loss_cls: 0.0005, acc: 100.0000, loss_bbox: 0.0000, loss: 0.0005
+[INFO]   2020-07-23 14:21:09,675    
++-------+-----+------+--------+-------+
+| class | gts | dets | recall | ap    |
++-------+-----+------+--------+-------+
+| qx    | 0   | 0    | 0.000  | 0.000 |
++-------+-----+------+--------+-------+
+| mAP   |     |      |        | 0.000 |
++-------+-----+------+--------+-------+
+[INFO]   2020-07-23 14:21:09,676    Epoch [3][186/186]	lr: 0.01000, mAP: 0.0000
+[INFO]   2020-07-23 14:21:25,903    Epoch [4][50/186]	lr: 0.00100, eta: 0:00:32, time: 0.323, data_time: 0.045, memory: 2235, loss_rpn_cls: 0.0000, loss_rpn_bbox: 0.0000, loss_cls: 0.0004, acc: 100.0000, loss_bbox: 0.0000, loss: 0.0004
+[INFO]   2020-07-23 14:21:40,065    Epoch [4][100/186]	lr: 0.00100, eta: 0:00:21, time: 0.283, data_time: 0.003, memory: 2235, loss_rpn_cls: 0.0000, loss_rpn_bbox: 0.0000, loss_cls: 0.0004, acc: 100.0000, loss_bbox: 0.0000, loss: 0.0004
+[INFO]   2020-07-23 14:21:54,310    Epoch [4][150/186]	lr: 0.00100, eta: 0:00:08, time: 0.285, data_time: 0.003, memory: 2235, loss_rpn_cls: 0.0000, loss_rpn_bbox: 0.0000, loss_cls: 0.0004, acc: 100.0000, loss_bbox: 0.0000, loss: 0.0004
+[INFO]   2020-07-23 14:22:08,265    
++-------+-----+------+--------+-------+
+| class | gts | dets | recall | ap    |
++-------+-----+------+--------+-------+
+| qx    | 0   | 0    | 0.000  | 0.000 |
++-------+-----+------+--------+-------+
+| mAP   |     |      |        | 0.000 |
++-------+-----+------+--------+-------+
+[INFO]   2020-07-23 14:22:08,266    Epoch [4][186/186]	lr: 0.00100, mAP: 0.0000
+[INFO]   2020-07-23 14:22:09,274    2020-07-23 06:22:09.273: train model end
+[INFO]   2020-07-23 14:22:39,622    2020-07-23 06:22:39.621: .pth and .py file published
+[INFO]   2020-07-23 14:23:08,747    2020-07-23 06:23:08.747: read one image complished
+[INFO]   2020-07-23 14:23:10,368    2020-07-23 06:23:10.368: inference result is shown
+[INFO]   2020-07-23 14:23:13,548    2020-07-23 06:23:13.548: read one image complished
+[INFO]   2020-07-23 14:23:14,964    2020-07-23 06:23:14.964: inference result is shown
+[INFO]   2020-07-23 14:23:17,430    2020-07-23 06:23:17.430: read one image complished
+[INFO]   2020-07-23 14:23:18,357    2020-07-23 06:23:18.357: inference result is shown
+[INFO]   2020-07-23 14:23:21,815    2020-07-23 06:23:21.815: read one image complished
+[INFO]   2020-07-23 14:23:22,872    2020-07-23 06:23:22.872: inference result is shown
+[INFO]   2020-07-23 14:23:26,405    2020-07-23 06:23:26.404: read one image complished
+[INFO]   2020-07-23 14:23:27,863    2020-07-23 06:23:27.863: inference result is shown
+[INFO]   2020-07-23 14:23:31,165    2020-07-23 06:23:31.165: read one image complished
+[INFO]   2020-07-23 14:23:32,353    2020-07-23 06:23:32.353: inference result is shown
+[INFO]   2020-07-23 14:23:36,013    2020-07-23 06:23:36.013: read one image complished
+[INFO]   2020-07-23 14:23:37,294    2020-07-23 06:23:37.294: inference result is shown
+[INFO]   2020-07-23 14:23:39,290    2020-07-23 06:23:39.290: read one image complished
+[INFO]   2020-07-23 14:23:40,266    2020-07-23 06:23:40.266: inference result is shown
+[INFO]   2020-07-23 14:23:42,645    2020-07-23 06:23:42.645: read one image complished
+[INFO]   2020-07-23 14:23:43,677    2020-07-23 06:23:43.677: inference result is shown
+[INFO]   2020-07-23 14:25:38,750    2020-07-23 06:25:38.749: train model start
+[INFO]   2020-07-23 14:25:39,702    Start running, host: pengbo@pb, work_dir: /home/pengbo/mmdetection/window/work_dirs/faster_rcnn_r50_fpn_1x_voc0712
+[INFO]   2020-07-23 14:25:39,702    workflow: [('train', 1)], max: 4 epochs
+[INFO]   2020-07-23 14:25:56,947    Epoch [1][50/186]	lr: 0.01000, eta: 0:03:58, time: 0.343, data_time: 0.045, memory: 2236, loss_rpn_cls: 0.0521, loss_rpn_bbox: 0.0000, loss_cls: 0.1214, acc: 99.8125, loss_bbox: 0.0000, loss: 0.1735
+[INFO]   2020-07-23 14:26:11,810    Epoch [1][100/186]	lr: 0.01000, eta: 0:03:26, time: 0.297, data_time: 0.003, memory: 2236, loss_rpn_cls: 0.0000, loss_rpn_bbox: 0.0000, loss_cls: 0.0068, acc: 100.0000, loss_bbox: 0.0000, loss: 0.0068
+[INFO]   2020-07-23 14:26:26,643    Epoch [1][150/186]	lr: 0.01000, eta: 0:03:05, time: 0.297, data_time: 0.003, memory: 2236, loss_rpn_cls: 0.0000, loss_rpn_bbox: 0.0000, loss_cls: 0.0033, acc: 100.0000, loss_bbox: 0.0000, loss: 0.0033
+[INFO]   2020-07-23 14:26:40,995    
++-------+-----+------+--------+-------+
+| class | gts | dets | recall | ap    |
++-------+-----+------+--------+-------+
+| qx    | 0   | 0    | 0.000  | 0.000 |
++-------+-----+------+--------+-------+
+| mAP   |     |      |        | 0.000 |
++-------+-----+------+--------+-------+
+[INFO]   2020-07-23 14:26:40,996    Epoch [1][186/186]	lr: 0.01000, mAP: 0.0000
+[INFO]   2020-07-23 14:26:58,307    Epoch [2][50/186]	lr: 0.01000, eta: 0:02:17, time: 0.345, data_time: 0.045, memory: 2236, loss_rpn_cls: 0.0000, loss_rpn_bbox: 0.0000, loss_cls: 0.0018, acc: 100.0000, loss_bbox: 0.0000, loss: 0.0018
+[INFO]   2020-07-23 14:27:13,418    Epoch [2][100/186]	lr: 0.01000, eta: 0:02:06, time: 0.302, data_time: 0.003, memory: 2236, loss_rpn_cls: 0.0000, loss_rpn_bbox: 0.0000, loss_cls: 0.0014, acc: 100.0000, loss_bbox: 0.0000, loss: 0.0014
+[INFO]   2020-07-23 14:27:29,287    Epoch [2][150/186]	lr: 0.01000, eta: 0:01:55, time: 0.317, data_time: 0.003, memory: 2236, loss_rpn_cls: 0.0000, loss_rpn_bbox: 0.0000, loss_cls: 0.0011, acc: 100.0000, loss_bbox: 0.0000, loss: 0.0011
+[INFO]   2020-07-23 14:27:44,251    
++-------+-----+------+--------+-------+
+| class | gts | dets | recall | ap    |
++-------+-----+------+--------+-------+
+| qx    | 0   | 0    | 0.000  | 0.000 |
++-------+-----+------+--------+-------+
+| mAP   |     |      |        | 0.000 |
++-------+-----+------+--------+-------+
+[INFO]   2020-07-23 14:27:44,252    Epoch [2][186/186]	lr: 0.01000, mAP: 0.0000
+[INFO]   2020-07-23 14:28:02,320    Epoch [3][50/186]	lr: 0.01000, eta: 0:01:26, time: 0.360, data_time: 0.046, memory: 2236, loss_rpn_cls: 0.0000, loss_rpn_bbox: 0.0000, loss_cls: 0.0008, acc: 100.0000, loss_bbox: 0.0000, loss: 0.0008
+[INFO]   2020-07-23 14:28:17,991    Epoch [3][100/186]	lr: 0.01000, eta: 0:01:14, time: 0.313, data_time: 0.003, memory: 2236, loss_rpn_cls: 0.0000, loss_rpn_bbox: 0.0000, loss_cls: 0.0007, acc: 100.0000, loss_bbox: 0.0000, loss: 0.0007
+[INFO]   2020-07-23 14:28:33,870    Epoch [3][150/186]	lr: 0.01000, eta: 0:01:01, time: 0.318, data_time: 0.004, memory: 2236, loss_rpn_cls: 0.0000, loss_rpn_bbox: 0.0000, loss_cls: 0.0006, acc: 100.0000, loss_bbox: 0.0000, loss: 0.0006
+[INFO]   2020-07-23 14:28:49,419    
++-------+-----+------+--------+-------+
+| class | gts | dets | recall | ap    |
++-------+-----+------+--------+-------+
+| qx    | 0   | 0    | 0.000  | 0.000 |
++-------+-----+------+--------+-------+
+| mAP   |     |      |        | 0.000 |
++-------+-----+------+--------+-------+
+[INFO]   2020-07-23 14:28:49,420    Epoch [3][186/186]	lr: 0.01000, mAP: 0.0000
+[INFO]   2020-07-23 14:29:07,259    Epoch [4][50/186]	lr: 0.00100, eta: 0:00:36, time: 0.355, data_time: 0.046, memory: 2236, loss_rpn_cls: 0.0000, loss_rpn_bbox: 0.0000, loss_cls: 0.0006, acc: 100.0000, loss_bbox: 0.0000, loss: 0.0006
+[INFO]   2020-07-23 14:29:23,195    Epoch [4][100/186]	lr: 0.00100, eta: 0:00:23, time: 0.319, data_time: 0.004, memory: 2236, loss_rpn_cls: 0.0000, loss_rpn_bbox: 0.0000, loss_cls: 0.0005, acc: 100.0000, loss_bbox: 0.0000, loss: 0.0005
+[INFO]   2020-07-23 14:29:38,883    Epoch [4][150/186]	lr: 0.00100, eta: 0:00:09, time: 0.314, data_time: 0.003, memory: 2236, loss_rpn_cls: 0.0000, loss_rpn_bbox: 0.0000, loss_cls: 0.0005, acc: 100.0000, loss_bbox: 0.0000, loss: 0.0005
+[INFO]   2020-07-23 14:29:53,946    
++-------+-----+------+--------+-------+
+| class | gts | dets | recall | ap    |
++-------+-----+------+--------+-------+
+| qx    | 0   | 0    | 0.000  | 0.000 |
++-------+-----+------+--------+-------+
+| mAP   |     |      |        | 0.000 |
++-------+-----+------+--------+-------+
+[INFO]   2020-07-23 14:29:53,947    Epoch [4][186/186]	lr: 0.00100, mAP: 0.0000
+[INFO]   2020-07-23 14:29:54,955    2020-07-23 06:29:54.954: train model end
+[INFO]   2020-07-23 14:29:54,955    2020-07-23 06:29:54.955: train model end

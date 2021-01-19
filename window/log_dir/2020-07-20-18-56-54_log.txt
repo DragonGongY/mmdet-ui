@@ -1,0 +1,4 @@
+[INFO]   2020-07-20 18:57:06,558    2020-07-20 10:57:06.557: data convert coco complished
+[INFO]   2020-07-20 18:57:06,558    2020-07-20 10:57:06.557: data convert coco complished
+[INFO]   2020-07-20 18:58:01,151    2020-07-20 10:58:01.151: data convert coco complished
+[INFO]   2020-07-20 18:58:01,151    2020-07-20 10:58:01.151: data convert coco complished

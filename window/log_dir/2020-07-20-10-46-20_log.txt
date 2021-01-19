@@ -1,0 +1,11 @@
+[INFO]   2020-07-20 10:46:20,253    Start running, host: pengbo@pb, work_dir: /home/pengbo/mmdetection/window/work_dirs/cascade_rcnn_r50_fpn_1x_coco
+[INFO]   2020-07-20 10:46:20,253    workflow: [('train', 1)], max: 12 epochs
+[INFO]   2020-07-20 10:46:44,742    Evaluating bbox...
+[INFO]   2020-07-20 10:46:44,786    Epoch [1][26/26]	lr: 0.00102, bbox_mAP: 0.0000, bbox_mAP_50: 0.0000, bbox_mAP_75: 0.0000, bbox_mAP_s: -1.0000, bbox_mAP_m: 0.0000, bbox_mAP_l: 0.0000, bbox_mAP_copypaste: 0.000 0.000 0.000 -1.000 0.000 0.000
+[INFO]   2020-07-20 10:47:10,601    Evaluating bbox...
+[INFO]   2020-07-20 10:47:10,964    Epoch [2][26/26]	lr: 0.00206, bbox_mAP: 0.0000, bbox_mAP_50: 0.0020, bbox_mAP_75: 0.0000, bbox_mAP_s: -1.0000, bbox_mAP_m: 0.0000, bbox_mAP_l: 0.0010, bbox_mAP_copypaste: 0.000 0.002 0.000 -1.000 0.000 0.001
+[INFO]   2020-07-20 10:47:37,387    Evaluating bbox...
+[INFO]   2020-07-20 10:47:37,439    Epoch [3][26/26]	lr: 0.00310, bbox_mAP: 0.0000, bbox_mAP_50: 0.0010, bbox_mAP_75: 0.0000, bbox_mAP_s: -1.0000, bbox_mAP_m: 0.0000, bbox_mAP_l: 0.0000, bbox_mAP_copypaste: 0.000 0.001 0.000 -1.000 0.000 0.000
+[INFO]   2020-07-20 10:47:59,793    2020-07-20 02:47:59.793: train thread suspend
+[INFO]   2020-07-20 10:48:36,064    2020-07-20 02:48:36.064: .pth and .py file published
+[INFO]   2020-07-20 10:49:29,166    2020-07-20 02:49:29.165: read one image complished

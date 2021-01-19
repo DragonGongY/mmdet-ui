@@ -1,0 +1,32 @@
+[INFO]   2020-07-17 18:43:50,736    2020-07-17 10:43:50.735: train model start
+[INFO]   2020-07-17 18:43:50,736    2020-07-17 10:43:50.735: train model start
+[INFO]   2020-07-17 18:43:54,374    Start running, host: pengbo@pb, work_dir: /home/pengbo/mmdetection/window/work_dirs/cascade_rcnn_r101_fpn_20e_coco
+[INFO]   2020-07-17 18:43:54,374    Start running, host: pengbo@pb, work_dir: /home/pengbo/mmdetection/window/work_dirs/cascade_rcnn_r101_fpn_20e_coco
+[INFO]   2020-07-17 18:43:54,374    workflow: [('train', 1)], max: 20 epochs
+[INFO]   2020-07-17 18:43:54,374    workflow: [('train', 1)], max: 20 epochs
+[INFO]   2020-07-17 18:44:29,508    Evaluating bbox...
+[INFO]   2020-07-17 18:44:29,508    Evaluating bbox...
+[ERROR]   2020-07-17 18:44:29,509    The testing results of the whole dataset is empty.
+[ERROR]   2020-07-17 18:44:29,509    The testing results of the whole dataset is empty.
+[INFO]   2020-07-17 18:44:29,509    Epoch [1][26/26]	lr: 0.00102, 
+[INFO]   2020-07-17 18:44:29,509    Epoch [1][26/26]	lr: 0.00102, 
+[INFO]   2020-07-17 18:45:04,583    Evaluating bbox...
+[INFO]   2020-07-17 18:45:04,583    Evaluating bbox...
+[ERROR]   2020-07-17 18:45:04,583    The testing results of the whole dataset is empty.
+[ERROR]   2020-07-17 18:45:04,583    The testing results of the whole dataset is empty.
+[INFO]   2020-07-17 18:45:04,584    Epoch [2][26/26]	lr: 0.00206, 
+[INFO]   2020-07-17 18:45:04,584    Epoch [2][26/26]	lr: 0.00206, 
+[INFO]   2020-07-17 18:45:40,606    Evaluating bbox...
+[INFO]   2020-07-17 18:45:40,606    Evaluating bbox...
+[ERROR]   2020-07-17 18:45:40,606    The testing results of the whole dataset is empty.
+[ERROR]   2020-07-17 18:45:40,606    The testing results of the whole dataset is empty.
+[INFO]   2020-07-17 18:45:40,607    Epoch [3][26/26]	lr: 0.00310, 
+[INFO]   2020-07-17 18:45:40,607    Epoch [3][26/26]	lr: 0.00310, 
+[INFO]   2020-07-17 18:46:17,015    Evaluating bbox...
+[INFO]   2020-07-17 18:46:17,015    Evaluating bbox...
+[ERROR]   2020-07-17 18:46:17,016    The testing results of the whole dataset is empty.
+[ERROR]   2020-07-17 18:46:17,016    The testing results of the whole dataset is empty.
+[INFO]   2020-07-17 18:46:17,016    Epoch [4][26/26]	lr: 0.00414, 
+[INFO]   2020-07-17 18:46:17,016    Epoch [4][26/26]	lr: 0.00414, 
+[INFO]   2020-07-17 18:46:40,253    2020-07-17 10:46:40.252: train thread suspend
+[INFO]   2020-07-17 18:46:40,253    2020-07-17 10:46:40.252: train thread suspend

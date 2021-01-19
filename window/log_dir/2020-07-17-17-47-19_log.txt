@@ -1,0 +1,2 @@
+[INFO]   2020-07-17 17:47:19,184    Start running, host: pengbo@pb, work_dir: /home/pengbo/mmdetection/window/work_dirs/cascade_rcnn_r50_fpn_1x_coco
+[INFO]   2020-07-17 17:47:19,184    workflow: [('train', 1)], max: 12 epochs

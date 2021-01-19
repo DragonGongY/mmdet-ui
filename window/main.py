@@ -198,7 +198,10 @@ class MainWindow_Model(QMainWindow, Ui_MainWindowDL):
         self.list_configContent(configPath)
 
     def list_checkPoints(self):
-        fileList = os.listdir("../checkpoints/")
+        ckpt_path = "../checkpoints/"
+        if not os.path.exists(ckpt_path):
+            os.mkdir(ckpt_path)
+        fileList = os.listdir(ckpt_path)
         for file in fileList:
             self.comboBox_checkpoint.addItem(file.split('.')[0])
 

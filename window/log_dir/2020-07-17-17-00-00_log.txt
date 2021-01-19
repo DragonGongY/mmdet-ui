@@ -1,0 +1,14 @@
+[INFO]   2020-07-17 17:00:00,114    Start running, host: pengbo@pb, work_dir: /home/pengbo/mmdetection/window/work_dirs/cascade_rcnn_r50_fpn_1x_coco
+[INFO]   2020-07-17 17:00:00,114    workflow: [('train', 1)], max: 12 epochs
+[INFO]   2020-07-17 17:00:24,589    Evaluating bbox...
+[ERROR]   2020-07-17 17:00:24,589    The testing results of the whole dataset is empty.
+[INFO]   2020-07-17 17:00:24,590    Epoch [1][26/26]	lr: 0.00102, 
+[INFO]   2020-07-17 17:00:49,906    Evaluating bbox...
+[ERROR]   2020-07-17 17:00:49,906    The testing results of the whole dataset is empty.
+[INFO]   2020-07-17 17:00:49,907    Epoch [2][26/26]	lr: 0.00206, 
+[INFO]   2020-07-17 17:01:16,165    Evaluating bbox...
+[ERROR]   2020-07-17 17:01:16,165    The testing results of the whole dataset is empty.
+[INFO]   2020-07-17 17:01:16,166    Epoch [3][26/26]	lr: 0.00310, 
+[INFO]   2020-07-17 17:01:42,750    Evaluating bbox...
+[ERROR]   2020-07-17 17:01:42,752    The testing results of the whole dataset is empty.
+[INFO]   2020-07-17 17:01:42,754    Epoch [4][26/26]	lr: 0.00414, 

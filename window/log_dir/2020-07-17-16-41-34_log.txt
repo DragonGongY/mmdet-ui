@@ -1,0 +1,10 @@
+[INFO]   2020-07-17 16:41:40,811    2020-07-17 08:41:40.811: .pth and .py file published
+[INFO]   2020-07-17 16:41:40,811    2020-07-17 08:41:40.811: .pth and .py file published
+[INFO]   2020-07-17 16:41:56,305    2020-07-17 08:41:56.305: read one image complished
+[INFO]   2020-07-17 16:41:56,305    2020-07-17 08:41:56.305: read one image complished
+[INFO]   2020-07-17 16:41:59,437    2020-07-17 08:41:59.437: inference result is shown
+[INFO]   2020-07-17 16:41:59,437    2020-07-17 08:41:59.437: inference result is shown
+[INFO]   2020-07-17 16:42:09,318    2020-07-17 08:42:09.318: read one image complished
+[INFO]   2020-07-17 16:42:09,318    2020-07-17 08:42:09.318: read one image complished
+[INFO]   2020-07-17 16:42:10,763    2020-07-17 08:42:10.763: inference result is shown
+[INFO]   2020-07-17 16:42:10,763    2020-07-17 08:42:10.763: inference result is shown
