@@ -34,5 +34,6 @@ Add a UI interface,created by PyQt5,convenient for beginners can quickly start, 
 | PAFPN              | ✓        | ✓        | ☐        | ✗        | ✓     | ☐        | ☐     |
 | NAS-FCOS           | ✓        | ✓        | ☐        | ✗        | ✓     | ☐        | ☐     |
 | PISA               | ✓        | ✓        | ☐        | ✗        | ✓     | ☐        | ☐     |
+
 ##Demo
 ![demo image](demo/ui_demo.gif)
